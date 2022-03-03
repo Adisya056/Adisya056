@@ -1,5 +1,5 @@
 ## Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [Adisya Ridia Nurahma](https://github.com/Adisya056/)
-Part of Data Science from Sumatera Institute of Technology, but I like to learn new things in Programming such as Python and R.
+Part of Data Science from Sumatera Institute of Technology, I like to learn new things in Programming such as Python and R.
 
 ---
 
