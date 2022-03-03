@@ -15,8 +15,8 @@ Part of Data Science from Sumatera Institute of Technology, I like to learn new 
 
 <details>	
   <summary><b> Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arianza1210&show_icons=true&theme=calm&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianza1210&layout=compact&theme=calm&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adisya056&show_icons=true&theme=calm&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adisya056&layout=compact&theme=calm&hide_border=true"/>
 </details>
 
 ---
