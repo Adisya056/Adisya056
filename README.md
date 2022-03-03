@@ -1,5 +1,5 @@
-## Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [Pandi Barep Arianza](https://github.com/arianza1210/)
-Currently studying at Lampung University, but I like to learn new things in Programming such as Machine Learning, Computer Vision, Python.
+## Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [Adisya Ridia Nurahma](https://github.com/Adisya056/)
+Part of Data Science from Sumatera Institute of Technology, but I like to learn new things in Programming such as Python and R.
 
 ---
 
@@ -7,17 +7,8 @@ Currently studying at Lampung University, but I like to learn new things in Prog
 
 ---
 
-<a href="https://github.com/arianza1210/Tucilweb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Tucilweb&theme=vue-dark" />
-</a>
-<a href="https://github.com/arianza1210/mobilelanjut">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=mobilelanjut&theme=vue-dark" />
-</a>
-<a href="https://github.com/arianza1210/Tugas0-EtikaProfesi/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Tugas0-EtikaProfesi&theme=vue-dark" />
-</a>
-<a href="https://github.com/arianza1210/ComputerVision/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=ComputerVision&theme=vue-dark" />
+<a href="https://github.com/Adisya023/Tugas_PBF_120450056_Adisya Ridia Nurahma/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adisya056&repo=Tugas_PBF_120450056_Adisya Ridia Nurahma&theme=vue-dark" />
 </a>
 
 ---
@@ -32,17 +23,17 @@ Currently studying at Lampung University, but I like to learn new things in Prog
 
 <details>
  <summary><b>What i am learning/working on these days</b></summary>
-    - 🔭 I’m currently studying computer vision</br>
-    - 🌱 I’m currently learning Python</br>
+    - 🔭 I’m currently studying python</br>
+    - 🌱 I’m currently learning R</br>
     - 🤔 I’m looking for help with master of programming. hehe </br> 
-    - 📫 How to reach me: <a href="mailto:pandiarianza2000.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:adisyaridia.com">Email me!</a>  </br>
 </details>
 
 
 ### Connect with me:
 <p>
-    <a href="https://instagram.com/pandi_arianza12" target="blank"><img src="https://img.shields.io/twitter/url?label=Pandi_arianza12&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fpandi_arianza12" /></a>
-    <a href="https://twitter.com/PArianza" target="blank"><img src="https://img.shields.io/twitter/url?label=PArianza&style=social&url=https%3A%2F%2Ftwitter.com%2FPArianza" /></a>
-    <a href="https://web.facebook.com/pandibareparianza.arianza" target="blank"><img src="https://img.shields.io/twitter/url?label=Pandi%20Barep%20Arianza&logo=facebook&style=social&url=https%3A%2F%2Fweb.facebook.com%2Fpandibareparianza.arianza" /></a> 
+    <a href="https://instagram.com/adisyar_" target="blank"><img src="https://img.shields.io/twitter/url?label=adisyar_&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fadisyar_" /></a>
+    <a href="https://twitter.com/Bedoos023" target="blank"><img src="https://img.shields.io/twitter/url?label=Bedoos023&style=social&url=https%3A%2F%2Ftwitter.com%2FBedoos023" /></a>
+    <a href="https://web.facebook.com/AdisyaRidiaNurahma" target="blank"><img src="https://img.shields.io/twitter/url?label=Adisya%20Ridia%20Nurahma&logo=facebook&style=social&url=https%3A%2F%2Fweb.facebook.com%2FAdisyaRidiaNurahma" /></a> 
 
 </p>
