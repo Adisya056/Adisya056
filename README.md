@@ -7,8 +7,8 @@ Part of Data Science from Sumatera Institute of Technology, I like to learn new 
 
 ---
 
-<a href="https://github.com/Adisya023/Tugas_PBF_120450056_Adisya Ridia Nurahma/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adisya056&repo=Tugas_PBF_120450056_Adisya Ridia Nurahma&theme=vue-dark" />
+<a href=https://github.com/Adisya056/Tugas_PBF_120450056_Adisya-Ridia-Nurahma/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adisya056&repo=Tugas_PBF_120450056_Adisya-Ridia-Nurahma&theme=vue-dark" />
 </a>
 
 ---
